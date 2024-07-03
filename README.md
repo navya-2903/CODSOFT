@@ -7,5 +7,7 @@ To Do List python project by clicking :-
 
 >> PROJECT 2 >
 
+Calculator python project by clicking :-
+-- python_programmed_calculator.zip then on 'view raw' button then download it then extract and run the .py file ..
 
 >> PROJECT 3 >
